@@ -1,0 +1,2 @@
+# learn_game_programming_with_ruby_note_and_code
+learning from the book learn_game_programming_with_ruby
